@@ -1,2 +1,2 @@
-print("kevin is Handsome")
-print("Emily is BIGPIG!!")
+print("kevin is大醜怪")
+print("Emily is 白富美!!")
