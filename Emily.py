@@ -1,3 +1,3 @@
-print("kevin is Handsome")
+print("kevin is stubid pig")
 
-print("Emily is BIGPIG!!")
+print("Emily is beautiful model!!")
